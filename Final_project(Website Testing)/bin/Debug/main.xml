@@ -1,0 +1,267 @@
+<Automation>
+<Execution>
+<LoginWithValidUserValidPass>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+</LoginWithValidUserValidPass>
+
+<changepassword>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33703</password>
+<currentpassword>C33703</currentpassword>
+<newpassword>C33003</newpassword>
+<confirmpassword>C33003</confirmpassword>
+<successmessage>Your Password Sucessfully Changed</successmessage>
+</changepassword>
+
+<newpasswordisdifferentfromconfirmpassword>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<currentpassword>C33003</currentpassword>
+<newpassword>C33703</newpassword>
+<confirmpassword>Us1234</confirmpassword>
+<successmessage>Your Password Sucessfully Changed</successmessage>
+</newpasswordisdifferentfromconfirmpassword>
+
+<LoginWithValidUserValidPassandLogout>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+</LoginWithValidUserValidPassandLogout>
+
+<LoginWithInValidUserValidPass>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>Usman</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+</LoginWithInValidUserValidPass>
+
+<LoginWithValidUserInValidPass>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C330</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+</LoginWithValidUserInValidPass>
+
+<LoginWithInValidUserInValidPass>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>Usman</username>
+<password>123</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+</LoginWithInValidUserInValidPass>
+
+<SearchHotelPositiveCase>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>3 - Three</room_nos>
+<datepick_ins>28/12/2025</datepick_ins>
+<datepick_outs>29/12/2025</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+</SearchHotelPositiveCase>
+
+<SearchHotelemptyfieldforlocation>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location></location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>3 - Three</room_nos>
+<datepick_ins>28/12/2024</datepick_ins>
+<datepick_outs>29/12/2024</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+</SearchHotelemptyfieldforlocation>
+
+<verifywhetherthecheckoutdatefieldacceptsalaterdatethancheckindate>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>3 - Three</room_nos>
+<datepick_ins>7/1/25</datepick_ins>
+<datepick_outs>5/1/25</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+</verifywhetherthecheckoutdatefieldacceptsalaterdatethancheckindate>
+
+<Tocheckiferrorisdatefieldisinpast>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>3 - Three</room_nos>
+<datepick_ins>10/12/2024</datepick_ins>
+<datepick_outs>8/12/2024</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+</Tocheckiferrorisdatefieldisinpast>
+
+<roomscheck>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>4 - Four</room_nos>
+<datepick_ins>10/12/2024</datepick_ins>
+<datepick_outs>8/12/2024</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+</roomscheck>
+<verifythetotalpriceiscorrectaccordingthepricepernight>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>4 - Four</room_nos>
+<datepick_ins>10/12/2025</datepick_ins>
+<datepick_outs>20/12/2025</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+</verifythetotalpriceiscorrectaccordingthepricepernight>
+
+<BookHotelpositivecase>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>4 - Four</room_nos>
+<datepick_ins>10/12/2025</datepick_ins>
+<datepick_outs>20/12/2025</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+<firstname>Usman</firstname>
+<lastname>Zakaria</lastname>
+<address>London</address>
+<cardno>1234567890123456</cardno>
+<cardtype>Master Card</cardtype>
+<month>December</month>
+<year>2025</year>
+<cvv>123</cvv>
+
+</BookHotelpositivecase>
+<missingfirstname>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>4 - Four</room_nos>
+<datepick_ins>10/12/2025</datepick_ins>
+<datepick_outs>20/12/2025</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+<firstname></firstname>
+<lastname>Zakaria</lastname>
+<address>London</address>
+<cardno>1234567890123456</cardno>
+<cardtype>Master Card</cardtype>
+<month>December</month>
+<year>2025</year>
+<cvv>123</cvv>
+
+</missingfirstname>
+
+
+<cardnoisincomplete>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>4 - Four</room_nos>
+<datepick_ins>10/12/2025</datepick_ins>
+<datepick_outs>20/12/2025</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+<firstname>Usman</firstname>
+<lastname>Zakaria</lastname>
+<address>London</address>
+<cardno>1234567890</cardno>
+<cardtype>Master Card</cardtype>
+<month>December</month>
+<year>2025</year>
+<cvv>123</cvv>
+
+</cardnoisincomplete>
+
+<cvvnocheck>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>4 - Four</room_nos>
+<datepick_ins>10/12/2025</datepick_ins>
+<datepick_outs>20/12/2025</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+<firstname>Usman</firstname>
+<lastname>Zakaria</lastname>
+<address>London</address>
+<cardno>1234567890123456</cardno>
+<cardtype>Master Card</cardtype>
+<month>December</month>
+<year>2025</year>
+<cvv>1233</cvv>
+
+</cvvnocheck>
+<yeardateinpast>
+<url>https://adactinhotelapp.com/index.php</url>
+<username>UsmanZakaria</username>
+<password>C33003</password>
+<welcome>Welcome to Adactin Group of Hotels</welcome>
+<location>Sydney</location>
+<hotel>Hotel Creek</hotel>
+<roomtype>Double</roomtype>
+<room_nos>4 - Four</room_nos>
+<datepick_ins>10/12/2025</datepick_ins>
+<datepick_outs>20/12/2025</datepick_outs>
+<adult_room>1 - One</adult_room>
+<child_room>2 - Two</child_room>
+<firstname>Usman</firstname>
+<lastname>Zakaria</lastname>
+<address>London</address>
+<cardno>1234567890123456</cardno>
+<cardtype>Master Card</cardtype>
+<month>December</month>
+<year>2014</year>
+<cvv>1233</cvv>
+
+</yeardateinpast>
+
+</Execution>
+</Automation>

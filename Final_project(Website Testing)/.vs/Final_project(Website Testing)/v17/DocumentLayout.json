@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|c:\\users\\uzair\\downloads\\final_project(website testing)\\final_project(website testing)\\final_project(website testing)\\project\\login page\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\project\\login page\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\final_project(website testing)\\project\\core\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\project\\core\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Book Hotel\\Bookinghotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:Final_project(Website Testing)\\Project\\Book Hotel\\Bookinghotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|c:\\users\\uzair\\downloads\\final_project(website testing)\\final_project(website testing)\\final_project(website testing)\\bin\\debug\\main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\bin\\debug\\main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:Final_project(Website Testing)\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\final_project(website testing)\\project\\login page\\loginpagetestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\project\\login page\\loginpagetestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\final_project(website testing)\\project\\assemblysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\project\\assemblysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\final_project(website testing)\\project\\book hotel\\bookinghoteltestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\project\\book hotel\\bookinghoteltestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:Final_project(Website Testing)\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\final_project(website testing)\\project\\search hotel\\searchhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\project\\search hotel\\searchhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Search Hotel\\SearchhotelTestCases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:Final_project(Website Testing)\\Project\\Search Hotel\\SearchhotelTestCases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\final_project(website testing)\\project\\cancelhoteltestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E26B07F-D7EF-4EA4-BD63-D829BAD7BD30}|Final_project(Website Testing)\\Final_project(Website Testing).csproj|solutionrelative:final_project(website testing)\\project\\cancelhoteltestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1344,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Login Page\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\Login Page\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Login Page\\LoginPage.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\Login Page\\LoginPage.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:01:48.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.xml",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\bin\\Debug\\main.xml",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\bin\\Debug\\main.xml",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\bin\\Debug\\main.xml",
+              "RelativeToolTip": "Final_project(Website Testing)\\bin\\Debug\\main.xml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAPQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-25T01:44:10.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblySetup.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\AssemblySetup.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\AssemblySetup.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\AssemblySetup.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\AssemblySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:17:59.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingHotelTestCases.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Book Hotel\\BookingHotelTestCases.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\Book Hotel\\BookingHotelTestCases.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Book Hotel\\BookingHotelTestCases.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\Book Hotel\\BookingHotelTestCases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:07:02.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Core\\BasePage.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\Core\\BasePage.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Core\\BasePage.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\Core\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:04:06.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchHotel.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Search Hotel\\SearchHotel.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\Search Hotel\\SearchHotel.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Search Hotel\\SearchHotel.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\Search Hotel\\SearchHotel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAABRwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:22:35.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPageTestCase.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Login Page\\LoginPageTestCase.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\Login Page\\LoginPageTestCase.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Login Page\\LoginPageTestCase.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\Login Page\\LoginPageTestCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:05:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CancelhotelTestcases.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\CancelhotelTestcases.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\CancelhotelTestcases.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\CancelhotelTestcases.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\CancelhotelTestcases.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAABRwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:22:49.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bookinghotel.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Book Hotel\\Bookinghotel.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\Book Hotel\\Bookinghotel.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Book Hotel\\Bookinghotel.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\Book Hotel\\Bookinghotel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:12:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\app.config",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\app.config",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\app.config",
+              "RelativeToolTip": "Final_project(Website Testing)\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-05T17:52:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:32:27.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchhotelTestCases.cs",
+              "DocumentMoniker": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Search Hotel\\SearchhotelTestCases.cs",
+              "RelativeDocumentMoniker": "Final_project(Website Testing)\\Project\\Search Hotel\\SearchhotelTestCases.cs",
+              "ToolTip": "C:\\Users\\uzair\\Downloads\\Final_project(Website Testing)\\Final_project(Website Testing)\\Final_project(Website Testing)\\Project\\Search Hotel\\SearchhotelTestCases.cs",
+              "RelativeToolTip": "Final_project(Website Testing)\\Project\\Search Hotel\\SearchhotelTestCases.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAABRwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:29:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
